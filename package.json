@@ -1,10 +1,10 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.4.2",
-  "description": "Course Catalog Template for Students",
+  "name": "simulation-networks",
+  "version": "1.0.0",
+  "description": "Моделирование сетей передачи данных",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
-  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "repository": "https://github.com/aaashteyjn/study_2025-2026_simulation-networks.git",
+  "author": "Alina Dobershteyjn <adobershteyjn@gmail.com>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
